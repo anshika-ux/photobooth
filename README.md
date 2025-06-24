@@ -11,13 +11,16 @@ A simple and stylish PhotoBooth built with just HTML, CSS, and a touch of JavaSc
 ## Demo 🚀
 👉 Live Demo :[https://mellifluous-tarsier-a905a6.netlify.app/](url)
 
-# How to Use 🛠
+## How to Use 🛠
 1.Clone the repo:
 ```
 git clone https://github.com/yourusername/photobooth-html-css.git
 ```
+
 2.Open index.html in your browser
+
 3.Grant webcam access
+
 4.Click the button to take a photo and apply fun effects
 
 # Contributing 🙌 
