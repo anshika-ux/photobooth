@@ -2,15 +2,11 @@
 A simple and stylish PhotoBooth built with just HTML, CSS, and a touch of JavaScript. This lightweight, browser-based app allows users to take selfies using their webcam and apply basic visual styles — perfect for fun projects, online events, or portfolio demos.
 
 ## Features
-Live webcam preview using the browser’s media API
-
-Capture photo with a single click
-
-Stylish UI built entirely with HTML and CSS
-
-Optional filters using CSS effects (grayscale, sepia, blur, etc.)
-
-Responsive design — works on desktop and mobile
+->Live webcam preview using the browser’s media API
+->Capture photo with a single click
+->Stylish UI built entirely with HTML and CSS
+->Optional filters using CSS effects (grayscale, sepia, blur, etc.)
+->Responsive design — works on desktop and mobile
 
 ## Demo 🚀
 👉 Live Demo :[https://mellifluous-tarsier-a905a6.netlify.app/](url)
