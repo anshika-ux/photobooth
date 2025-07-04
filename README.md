@@ -9,7 +9,7 @@ A simple and stylish PhotoBooth built with just HTML, CSS, and a touch of JavaSc
 ->Responsive design — works on desktop and mobile
 
 ## Demo 🚀
-👉 Live Demo :[https://mellifluous-tarsier-a905a6.netlify.app/](url)
+👉 Live Demo :[Photobooth](https://mellifluous-tarsier-a905a6.netlify.app/)
 
 ## How to Use 🛠
 1.Clone the repo:
